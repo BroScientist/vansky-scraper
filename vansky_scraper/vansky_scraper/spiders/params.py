@@ -1,2 +1,2 @@
-USERNAME = 'victorsun1685@gmail.com'
-PASSWORD = '6457DAY5m'
+USERNAME = 'your_email@mail.com'
+PASSWORD = 'your_password'
