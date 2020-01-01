@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+vansky_scraper/__init__.py
+vansky_scraper/items.py
+vansky_scraper/middlewares.py
+vansky_scraper/pipelines.py
+vansky_scraper/settings.py
+vansky_scraper/spiders/__init__.py
+vansky_scraper/spiders/params.py
+vansky_scraper/spiders/script.py
